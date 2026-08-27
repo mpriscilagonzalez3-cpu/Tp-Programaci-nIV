@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-// Gonzalez Priscila
+// Gonzalez Maria Priscila
 //Programación IV
 //UNLAR - Sede Chamical
 
